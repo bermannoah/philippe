@@ -1,5 +1,7 @@
 # Philippe Is Standing On It
 
+[![Gem Version](https://badge.fury.io/rb/philippe-shell.svg)](https://badge.fury.io/rb/philippe-shell)
+
 We can't read the man pages because Philippe is standing on them. A useless gem.
 
 It will modify your `.bash_profile`. If you don't want to do that, don't run this gem. 
