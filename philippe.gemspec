@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'philippe'
+  s.name        = 'philippe-shell'
   s.version     = '0.0.1'
   s.date        = '2017-04-21'
   s.summary     = "Philippe is standing on it."
